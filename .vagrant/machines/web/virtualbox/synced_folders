@@ -1,0 +1,1 @@
+{"virtualbox":{"/configs":{"guestpath":"/configs","hostpath":"/home/henrique/Documents/devops/first-project/configs","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/henrique/Documents/devops/first-project","disabled":false,"__vagrantfile":true}}}
